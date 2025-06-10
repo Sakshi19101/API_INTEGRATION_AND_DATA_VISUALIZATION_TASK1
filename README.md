@@ -5,5 +5,5 @@ INTERN ID : CT04DF2845
 DOMIAN : PYTHON PROGRAMMING
 DURATION : 4 WEEKS
 MENTOR : NEELA SANTOSH KUMAR
-DESCRIPTION OF TASK : 
+DESCRIPTION OF TASK : [Internship_Task1_WeatherForecast.pdf](https://github.com/user-attachments/files/20673268/Internship_Task1_WeatherForecast.pdf)
 OUTPUT : ![Image](https://github.com/user-attachments/assets/2418e4eb-4454-4ade-ba41-8ad03cb48d86)
