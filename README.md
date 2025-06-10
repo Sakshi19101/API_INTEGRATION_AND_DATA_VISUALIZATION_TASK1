@@ -3,4 +3,4 @@ COMPANY : CODTECH IT SOLUTONS
 NAME : 
 
 
-OUTPUT : 
+OUTPUT : ![Image](https://github.com/user-attachments/assets/2418e4eb-4454-4ade-ba41-8ad03cb48d86)
